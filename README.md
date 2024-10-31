@@ -4,7 +4,6 @@ Welcome! This repository contains the code, documentation, and findings from my 
 This research investigates how weather variability affects household energy use. I used machine learning techniques to create predictive models and identified critical insights on the ways weather conditions impact energy demands. My findings can be valuable for developing smart home energy solutions and energy management strategies that adapt to weather changes.
 
 2. Project Objectives-
-
 The project’s goals were:
 a) Identify how specific weather conditions impact energy consumption in residential buildings.
 b) Develop predictive models (including Linear Regression, Decision Trees, Random Forest, and Neural Networks) to accurately forecast energy usage.
